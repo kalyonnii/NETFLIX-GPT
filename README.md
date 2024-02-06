@@ -2,6 +2,9 @@ my notes
 ## Netflix GPT
 - Create react app
 - configured tailwind css
+- Header
+- Login form
+- SignUp form
 
 
 
@@ -35,7 +38,9 @@ my notes
     - movie recommendations
 
 
-
+## LINKS 
+- forms  
+https://formik.org/docs/overview
 
 
 
