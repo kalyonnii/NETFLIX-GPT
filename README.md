@@ -7,7 +7,15 @@ my notes
 - Login form
 - SignUp form
 - Form Validation
-- 
+- useRef hook 
+- Firebase setup 
+- Deploying our app to production ----- pending
+- create signup user account
+- implement sign in user Api
+- created Redux Store with userslice
+- IMPLEMENTED SIGNOUT
+- UPDATE PROFILE API CALL
+- fetch movies  from tmdb
 
 
 
@@ -50,12 +58,21 @@ https://react.dev/reference/react/useRef
 
 Firebase
 https://firebase.google.com/docs/reference/js/?hl=en&authuser=0&_gl=1*k13vyu*_ga*NTExMTcwNDEuMTcwNzc1MjIyNQ..*_ga_CW55HF8NVT*MTcwNzc1MjIyNS4xLjEuMTcwNzc1MjU3MC4yMi4wLjA.
+ PASSWORD AUTHENTICATION 
+https://firebase.google.com/docs/auth/web/password-auth
+https://firebase.google.com/docs/auth/web/manage-users
 
-
+https://firebase.google.com/docs/auth/web/manage-users
 
 
 https://stackoverflow.com/questions/65588846/getting-error-updating-email-password-on-firebase
 
+
+TMDB API
+https://developer.themoviedb.org/reference/search-movie
+
+TMDB 
+https://www.themoviedb.org/
 
 
 
