@@ -3,8 +3,11 @@ my notes
 - Create react app
 - configured tailwind css
 - Header
+- Routing 
 - Login form
 - SignUp form
+- Form Validation
+- 
 
 
 
@@ -41,10 +44,17 @@ my notes
 ## LINKS 
 - forms  
 https://formik.org/docs/overview
+- useRef
+https://react.dev/reference/react/useRef
+
+
+Firebase
+https://firebase.google.com/docs/reference/js/?hl=en&authuser=0&_gl=1*k13vyu*_ga*NTExMTcwNDEuMTcwNzc1MjIyNQ..*_ga_CW55HF8NVT*MTcwNzc1MjIyNS4xLjEuMTcwNzc1MjU3MC4yMi4wLjA.
 
 
 
 
+https://stackoverflow.com/questions/65588846/getting-error-updating-email-password-on-firebase
 
 
 
