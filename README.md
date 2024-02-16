@@ -22,7 +22,15 @@ my notes
 - add hardcoded values to the constants file
 - Register TMDB & create an app & get access token 
 - Get data from TMDB now playing movies list API
-- 
+- Custom hook for nowplaying movies 
+- create a movie slice 
+- update store with movies data 
+planning for main container and secondary container 
+- fetch data for trailer video 
+- update store with trailer video data
+- embedded the youtube video and make it autoplay and mute 
+- tailwind classes to make main container  to look awesome 
+
 
 
 
@@ -89,6 +97,14 @@ https://developer.themoviedb.org/docs/getting-started
 
 NOWPLAYING LINK
 https://developer.themoviedb.org/reference/movie-now-playing-list
+
+
+## Autoplay of emded video
+https://developers.google.com/youtube/player_parameters
+## MUTE
+https://stackoverflow.com/questions/35044594/youtube-how-to-present-embed-video-with-sound-muted
+
+## LOOP
 
 
 

@@ -4,8 +4,15 @@
 /node_modules
 /.pnp
 .pnp.js
+
+
+#  modified by me
 .firebase
 /src/config-key
+
+
+
+
 # testing
 /coverage
 
