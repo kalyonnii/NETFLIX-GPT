@@ -16,6 +16,14 @@ my notes
 - IMPLEMENTED SIGNOUT
 - UPDATE PROFILE API CALL
 - fetch movies  from tmdb
+- BUg fix of sign up user display name and profile picture update
+-  bugfix : if the user is not logged in redirect / browse to login page and vice versa
+- unsubscribed to the onAuthStateChanged callback
+- add hardcoded values to the constants file
+- Register TMDB & create an app & get access token 
+- Get data from TMDB now playing movies list API
+- 
+
 
 
 
@@ -74,6 +82,13 @@ https://developer.themoviedb.org/reference/search-movie
 TMDB 
 https://www.themoviedb.org/
 
+TO GET API KEY AND ACCESS TOKEN
+https://www.educative.io/courses/movie-database-api-python/set-up-the-credentials
+TMDB -DOCS
+https://developer.themoviedb.org/docs/getting-started
+
+NOWPLAYING LINK
+https://developer.themoviedb.org/reference/movie-now-playing-list
 
 
 
