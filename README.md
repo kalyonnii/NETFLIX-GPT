@@ -30,6 +30,8 @@ planning for main container and secondary container
 - update store with trailer video data
 - embedded the youtube video and make it autoplay and mute 
 - tailwind classes to make main container  to look awesome 
+- build secondary component
+
 
 
 
@@ -105,10 +107,12 @@ https://developers.google.com/youtube/player_parameters
 https://stackoverflow.com/questions/35044594/youtube-how-to-present-embed-video-with-sound-muted
 
 ## LOOP
+https://stackoverflow.com/questions/13041088/getting-an-embedded-youtube-video-to-auto-play-and-loop
 
+## TMDB IMAGES
+https://developer.themoviedb.org/docs/image-basics
 
-
-
+https://developer.themoviedb.org/reference/collection-images
 
 
 # Getting Started with Create React App
