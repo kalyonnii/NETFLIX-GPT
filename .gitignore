@@ -9,8 +9,7 @@
 #  modified by me
 .firebase
 /src/config-key
-
-
+.env
 
 
 # testing

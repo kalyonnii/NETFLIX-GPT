@@ -31,6 +31,7 @@ const GPTSearchBar = () => {
       "12th fail",
       "hanuman",
       "Krish 3",
+      "Devil"
     ];
     const promiseArray = gptMovies.map((movie) => sampleGptClick1(movie));
 
