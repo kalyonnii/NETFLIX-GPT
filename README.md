@@ -40,7 +40,14 @@ planning for main container and secondary container
 - gpt search bar 
 - **** multi language fature in our app
 - INTEGRATE GPT APIS(get openAI KEY )
-- 
+- gpt search Api call
+- fetched gpt movies suggestions from tmdb
+- created gptslice addes data
+- reused movie list components to make movie suggestions container
+- memoization 
+- adding .env file
+- adding  .env file to gitignore 
+- made our site responsive
 - 
 
 
