@@ -10,7 +10,7 @@ import { auth } from "../utils/firebase";
 //import { useNavigate } from "react-router-dom";
 import { useDispatch } from "react-redux";
 import { addUser } from "../utils/userSlice";
-import {USER_AVATAR} from "../utils/constants"
+import { BG_IMG_URL, USER_AVATAR } from "../utils/constants";
 const Login = () => {
   const [isSignInForm, setIsSignInForm] = useState(true);
   const [errorMessage, setErrorMessage] = useState(null);
@@ -61,7 +61,7 @@ const Login = () => {
           const user = userCredential.user;
           updateProfile(user, {
             displayName: name.current.value,
-            photoURL:USER_AVATAR,
+            photoURL: USER_AVATAR,
           })
             .then(() => {
               const { uid, email, displayName, photoURL } = auth.currentUser;
@@ -110,11 +110,7 @@ const Login = () => {
     <div>
       <Header />
       <div className="absolute w-full ">
-        <img
-          className="w-full"
-          src="https://cdn.mos.cms.futurecdn.net/rDJegQJaCyGaYysj2g5XWY.jpg"
-          alt="bg_image"
-        />
+        <img className="w-full" src={BG_IMG_URL} alt="bg_image" />
       </div>
       <form
         onSubmit={(e) => e.preventDefault()}

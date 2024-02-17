@@ -31,6 +31,17 @@ planning for main container and secondary container
 - embedded the youtube video and make it autoplay and mute 
 - tailwind classes to make main container  to look awesome 
 - build secondary component
+- BUILD MOVIE LIST 
+- build movie card
+- TMDB mage CDN URL 
+- made thye browse page amazing with tailwind css
+- usePopularMovies, useUpcomingMovies, useTopRatedMovies, custom hooks
+- GPT search feature
+- gpt search bar 
+- **** multi language fature in our app
+- INTEGRATE GPT APIS(get openAI KEY )
+- 
+- 
 
 
 
