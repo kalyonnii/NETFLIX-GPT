@@ -126,6 +126,28 @@ https://developer.themoviedb.org/docs/image-basics
 https://developer.themoviedb.org/reference/collection-images
 
 
+
+## OPEN AI 
+https://platform.openai.com/docs/overview
+
+https://platform.openai.com/api-keys
+
+https://www.npmjs.com/package/openai
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
